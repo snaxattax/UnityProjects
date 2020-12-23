@@ -1,16 +1,14 @@
 ﻿<Properties StartupConfiguration="{465A12E5-0917-F68F-5DAA-36E0DFB33C2E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SimpleCameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/SimpleCameraController.cs" Line="119" Column="13" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="12" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Rollaball" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="SimpleCameraController.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3287f0b4-3fc8-4c78-b3d0-fd6f9ac31f5a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87e31016-0ff6-4b6c-85cb-7bbe3c77d5fc" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
